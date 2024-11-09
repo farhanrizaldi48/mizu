@@ -1,6 +1,7 @@
 # Mizu - Auto Mining & Claim Bot
 
 **Mizu** adalah bot otomatis yang menjalankan proses mining, klaim hasil mining, dan klaim bonus referal pada platform yang terintegrasi dengan aplikasi Telegram Web.
+
 link : https://t.me/mizuai_bot/mining?startapp=5829323176
 ## 📋 Fitur
 - **Auto Mining**: Menjalankan proses mining secara otomatis.
